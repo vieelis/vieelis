@@ -1,12 +1,8 @@
-# 👋 Hi there
+# 🚀 Hi there
 
-I'm Bruna Elias, a college student in data management and tech enthusiast working on projects and exploring different technologies.
+I'm a college student in data management and tech enthusiast working on projects and exploring different technologies. I'm specializing in software and back-end web development, combining modern frameworks with best practice design patterns.
 
 > “Do, or do not. There is no “try” — Yoda
-
-# 🚀 Expertise
-
-I'm specializing in back-end web development, combining modern frameworks with best practice design patterns.
 
 # 💻 Tech Stack
 
