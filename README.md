@@ -1,6 +1,6 @@
 # 🚀 Hi there
 
-I'm a college student and tech enthusiast working on projects and exploring different technologies. I'm specializing in software and back-end web development, combining modern frameworks with best practice design patterns.
+I'm a college student and tech enthusiast working on projects and exploring different technologies. I'm specializing in software and back-end web development and cybersecurity, combining modern frameworks with best practice design patterns.
 
 > “Do, or do not. There is no “try” — Yoda
 
